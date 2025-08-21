@@ -11,4 +11,5 @@ Collaborators
 - Co-author: Mostafa Amiri
 - Superviser: Mahkameh Sharbatdar (Asistant professor at KNTU university)
 
-
+Files of conference certificate, report and presentation are in the respective folder.
+Files of my Bachelor's thesis are written in farsi.
